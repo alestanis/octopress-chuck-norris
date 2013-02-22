@@ -10,7 +10,7 @@ http://blog.alestanis.com
 
 Installation:
 -------------
-Copy the plugin files inside your Octopress blog, then add `asides/chuck_norris.html` to your asides list.
+Copy the plugin files inside your Octopress blog, then add `custom/asides/chuck_norris.html` to your asides list.
 
 Syntax:
 -------
