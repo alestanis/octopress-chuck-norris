@@ -5,7 +5,7 @@ Add a random Chuck Norris joke to your Octopress blog asides.
 Based on the Internet Chuck Norris Data Base API (www.icndb.com)
 
 Demo:
---------
+-----
 http://blog.alestanis.com
 
 Installation:
