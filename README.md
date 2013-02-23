@@ -15,3 +15,7 @@ Copy the plugin files inside your Octopress blog, then add `custom/asides/chuck_
 Syntax:
 -------
     {% chucknorris %}
+    
+Category filters:
+-----------------
+You can display only jokes from certain categories or excluding certain categories by modifying the `plugins/chuck_norris.rb` file.
